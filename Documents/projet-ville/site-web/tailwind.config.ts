@@ -13,9 +13,14 @@ const config: Config = {
         secondary: "#E0F7FA",
         background: "#F8FAFB",
         text: "#1A1A2E",
+        'skp-black': "#1A1A2E",
+        'skp-turquoise': "#007B8F",
+        'skp-light': "#D4F4F7",
+        'skp-gray': "#6B7280",
       },
       borderRadius: {
         xl: "16px",
+        skp: "16px",
       },
       boxShadow: {
         card: "0 4px 20px rgba(0, 0, 0, 0.08)",
